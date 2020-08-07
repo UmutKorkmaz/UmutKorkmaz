@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-My name is Umut Korkmaz, I am a Computer Engineer and Software Developer. I have 5 years of experience in full stack website development. I have also developed IoT projects, Android and Desktop Applications, mostly for fun.
+My name is Umut Korkmaz, I am a Computer Engineer and Software Developer. I have 5 years of experience in Full Stack website development. I have also developed IoT projects, Android and Desktop Applications, mostly for fun.
 
 Currently, I am focused on DevOps, Agile Project Management, Machine Learning and Augmented Reality, but I continue to develop things.
 
