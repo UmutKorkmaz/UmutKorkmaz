@@ -6,7 +6,7 @@ Currently, I am focused on DevOps, Agile Project Management, Machine Learning an
 
 I’m currently learning **kubernetes, gitlab, computer vision, spring boot, elasticsearch, deno, redux, and lots of other stuffs**
 
-## 📌 GitHub Stats And Top Languages
+## 📌 GitHub stats and top languages
 
 ![Umut's github stats](https://github-readme-stats.vercel.app/api?username=umutkorkmaz&show_icons=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutkorkmaz&layout=compact)
