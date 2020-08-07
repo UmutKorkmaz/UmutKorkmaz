@@ -8,10 +8,9 @@ I’m currently learning **kubernetes, gitlab, computer vision, spring boot, ela
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutkorkmaz&show_icons=true&count_private=true" alt="UmutKorkmaz's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutkorkmaz&layout=compact" alt="My Top Langs" />
-</p>
+![Umut's github stats](https://github-readme-stats.vercel.app/api?username=umutkorkmaz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutkorkmaz&layout=compact)
+
 
 ## 📚 Some of my favorite topics
 <br/>
