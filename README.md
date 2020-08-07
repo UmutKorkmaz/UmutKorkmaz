@@ -18,7 +18,7 @@ I’m currently learning **kubernetes, gitlab, computer vision, spring boot, ela
 
 ## 📫 How to reach me 
 
-You can send me emails (**umutkorkmaz@outlook.com.tr**) or you reach me out on any channel or social media platform shown below!<br/>
+You can send me emails **umutkorkmaz@outlook.com.tr** or you reach me out on any channel or social media platform shown below!<br/>
 
 <p align="center">
   <a href="https://codepen.io/umutkorkmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="umutkorkmaz" height="30" width="30" /></a>
