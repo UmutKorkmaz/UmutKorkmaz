@@ -1,10 +1,10 @@
-<h1>Hi there 👋</h1>
+<h1>Hi, I'm Umut 👋</h1>
 
-My name is Umut Korkmaz, I am a Computer Engineer and Software Developer. I have 5+ years of experience in Full Stack website development. I have also developed IoT, Android and Desktop Application.
+I am a Computer Engineer and I have 5+ years of working experince in Full Stack Development with HTML, CSS, Javascript, React, jQuery, Ajax, Bootstrap, PHP, ASP.NET, and so many others. I have also developed applications for plenty of other platforms, such as, desktop computers, mobile and IoT devices.
 
-Currently, I am focused on DevOps, Project Management, and Machine Learning, but I continue to develop things.
+Currently, I work as a Frontend Developer at Makdos Information Technologies.
 
-I’m currently learning **kubernetes, gitlab, react, redux, and lots of other stuffs**
+In free times, I am learning **docker, kubernetes, lxc, gitlab, vue, react, redux, python, tensorflow and lots of other stuffs**
 
 ## 📌 GitHub stats and top languages
 
