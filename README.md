@@ -2,7 +2,7 @@
 
 I am a Computer Engineer and I have 5+ years of working experince in Full Stack Development with HTML, CSS, Javascript, React, jQuery, Ajax, Bootstrap, PHP, ASP.NET, and so many others. I have also developed applications for plenty of other platforms, such as, desktop computers, mobile and IoT devices.
 
-Currently, I work as a Frontend Developer at Makdos Information Technologies.
+Currently, I work as a Full Stack Engineer at Makdos Information Technologies.
 
 In free times, I am learning **docker, kubernetes, lxc, gitlab, vue, react, redux, python, tensorflow and lots of other stuffs**
 
