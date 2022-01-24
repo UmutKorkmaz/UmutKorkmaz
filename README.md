@@ -1,10 +1,6 @@
 <h1>Hi, I'm Umut 👋</h1>
 
-I am a Computer Engineer and I have 5+ years of working experince in Full Stack Development with HTML, CSS, Javascript, React, jQuery, Ajax, Bootstrap, PHP, ASP.NET, and so many others. I have also developed applications for plenty of other platforms, such as, desktop computers, mobile and IoT devices.
-
-Currently, I work as a Full Stack Engineer at Makdos Information Technologies.
-
-In free times, I am learning **docker, kubernetes, lxc, gitlab, vue, react, redux, python, tensorflow and lots of other stuffs**
+I have been in the software industry for more than 10 years, and I have 6+ years of professional experience. In this process, I used technologies such as Python, FastAPI, PostgreSQL, Nginx, Lxc, Docker, React, Next.js, Tailwind, PHP, ASP.NET, C#, jQuery, Ajax, and many others while developing applications and websites. I also worked as a SEO Expert and Google Ads Specialist. As a hobby, I developed Mobile, Desktop, IoT applications, and also interested in DevOps, Robotics, Cyber Security, Machine Learning, and Virtual Reality.
 
 ## 📌 GitHub stats and top languages
 
