@@ -3,6 +3,7 @@
 <p>As a full stack engineer, I leverage my 10+ years of software industry experience and my expertise in Python, Javascript, PostgreSQL, and other technologies to develop and manage web applications, databases, and servers. I also lead and mentor the engineering teams, provide support to junior developers, and troubleshoot issues that arise.</p>
 
 <p>I am passionate about creating innovative and scalable solutions for web, mobile, and desktop platforms, using cutting-edge frameworks and tools such as React, FastAPI, Next.js, TypeScript, Tailwind, React Native, Node.js, WebSocket, WebHook, HAProxy, Nginx and more. I have also worked as an SEO and Google Ads Specialist, and I am interested in DevOps, Robotics, Cyber Security, Machine Learning, and Virtual Reality.</p>
+
 ## 📌 GitHub stats and top languages
 
 ![Umut's github stats](https://github-readme-stats.vercel.app/api?username=umutkorkmaz&show_icons=true&hide=stars&theme=dark)
