@@ -50,18 +50,6 @@ software that ships.
 | [quorate](https://github.com/UmutKorkmaz/quorate) | A council of AI reviewers for code in one CLI. | TypeScript |
 | [code-pulse](https://github.com/UmutKorkmaz/code-pulse) | Privacy-first developer time tracking and productivity analytics for VS Code. | TypeScript |
 
-## Selected Products
-
-| Product | Focus | Stack |
-| --- | --- | --- |
-| DigiPort App | Internal corporate mobile app for announcements, events, and workflow access across managed iOS and Android devices. | React Native, .NET, Oracle |
-| DigiFlow | Internal workflow modernization covering roughly 100 workflows for approvals and employee operations. | React, .NET, Oracle |
-| [Yazılımcı Bul](https://yazilimcibul.com) | Developer marketplace and AI-assisted project platform for matching clients with developers and agencies. | React, Node.js, MongoDB |
-| [Kapsül Mobilya](https://kapsulmobilya.com.tr/) | Interactive furniture e-commerce platform with real-time 3D configuration and iyzico payment processing. | React, TypeScript, .NET Core, Babylon.js |
-| [E-Export City](https://www.e-exportcity.com/) | Digital export portal with catalog management, inquiry workflows, tiered memberships, and cross-border sales admin tooling. | React, Node.js, Express, MongoDB, Redis |
-| [Pometop](https://www.pometop.com/) | B2B supply-chain and commerce platform with three trade models and broad category coverage. | TypeScript, Next.js, Node.js, .NET Core |
-| Makdos | Hosting, domain, server, support, and customer-management platform for commercial operations. | React, Next.js, Python, FastAPI, PostgreSQL |
-
 ## Core Stack
 
 | Area | Tools and strengths |
