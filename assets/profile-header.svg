@@ -1,0 +1,64 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Umut Korkmaz - Lead Software Engineer</title>
+  <desc id="desc">A restrained portfolio header for enterprise platforms, AI workflows, scalable APIs, and mobile products.</desc>
+  <rect width="1200" height="360" rx="28" fill="#11100F"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2B2926"/>
+
+  <path d="M0 286 C154 252 220 331 377 297 C544 261 629 216 801 248 C958 277 1042 330 1200 291 V360 H0 V286Z" fill="#171614"/>
+  <path d="M738 0 H1200 V360 H893 C842 277 813 205 806 145 C798 78 766 34 738 0Z" fill="#151A1D"/>
+
+  <g opacity="0.7">
+    <path d="M88 64 H517" stroke="#2B2926"/>
+    <path d="M88 104 H438" stroke="#2B2926"/>
+    <path d="M88 144 H548" stroke="#2B2926"/>
+    <path d="M88 184 H488" stroke="#2B2926"/>
+    <path d="M88 224 H568" stroke="#2B2926"/>
+  </g>
+
+  <g>
+    <circle cx="90" cy="64" r="5" fill="#3FB7FF"/>
+    <circle cx="90" cy="104" r="5" fill="#64D6A1"/>
+    <circle cx="90" cy="144" r="5" fill="#F0C36A"/>
+    <circle cx="90" cy="184" r="5" fill="#3FB7FF"/>
+    <circle cx="90" cy="224" r="5" fill="#64D6A1"/>
+  </g>
+
+  <text x="132" y="91" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Umut Korkmaz</text>
+  <text x="132" y="131" fill="#B8B2A9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Lead Software Engineer</text>
+  <text x="132" y="169" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Enterprise platforms and scalable APIs</text>
+  <text x="132" y="205" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">AI workflows and mobile products</text>
+  <text x="132" y="241" fill="#B8B2A9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="19">React / Next.js / React Native / .NET / Node.js / Python</text>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">
+    <rect x="132" y="267" width="136" height="34" rx="17" fill="#1D252A" stroke="#2F4A57"/>
+    <text x="152" y="289" fill="#BFEAFF">Istanbul UTC+3</text>
+    <rect x="284" y="267" width="116" height="34" rx="17" fill="#1C251F" stroke="#315445"/>
+    <text x="304" y="289" fill="#C7F4DB">10+ years</text>
+    <rect x="416" y="267" width="165" height="34" rx="17" fill="#272219" stroke="#5D4D25"/>
+    <text x="436" y="289" fill="#FFE3A3">Platform delivery</text>
+  </g>
+
+  <g transform="translate(805 74)">
+    <rect x="0" y="0" width="310" height="204" rx="22" fill="#171614" stroke="#2B2926"/>
+    <rect x="24" y="24" width="116" height="40" rx="12" fill="#1D252A" stroke="#2F4A57"/>
+    <text x="50" y="50" fill="#BFEAFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">API</text>
+    <rect x="170" y="24" width="116" height="40" rx="12" fill="#1C251F" stroke="#315445"/>
+    <text x="197" y="50" fill="#C7F4DB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">AI</text>
+    <rect x="24" y="140" width="116" height="40" rx="12" fill="#272219" stroke="#5D4D25"/>
+    <text x="47" y="166" fill="#FFE3A3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Mobile</text>
+    <rect x="170" y="140" width="116" height="40" rx="12" fill="#211B22" stroke="#4B394E"/>
+    <text x="195" y="166" fill="#E9C9F5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Cloud</text>
+
+    <path d="M140 44 H170" stroke="#3FB7FF" stroke-width="2"/>
+    <path d="M82 64 V140" stroke="#F0C36A" stroke-width="2"/>
+    <path d="M228 64 V140" stroke="#64D6A1" stroke-width="2"/>
+    <path d="M140 160 H170" stroke="#E9C9F5" stroke-width="2"/>
+    <circle cx="155" cy="44" r="4" fill="#3FB7FF"/>
+    <circle cx="82" cy="102" r="4" fill="#F0C36A"/>
+    <circle cx="228" cy="102" r="4" fill="#64D6A1"/>
+    <circle cx="155" cy="160" r="4" fill="#E9C9F5"/>
+
+    <rect x="118" y="82" width="74" height="42" rx="21" fill="#11100F" stroke="#34312D"/>
+    <text x="141" y="108" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">ship</text>
+  </g>
+</svg>
