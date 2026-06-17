@@ -1,92 +1,100 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Umut Korkmaz - Lead Software Engineer</title>
-  <desc id="desc">A professional GitHub profile header for enterprise platforms, AI workflows, scalable APIs, and mobile products.</desc>
+  <desc id="desc">A polished professional GitHub profile header for enterprise platforms, AI workflows, scalable APIs, and mobile products.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#11100F"/>
-      <stop offset="0.58" stop-color="#141312"/>
-      <stop offset="1" stop-color="#10181C"/>
+    <linearGradient id="base" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F0E0D"/>
+      <stop offset="0.48" stop-color="#141210"/>
+      <stop offset="1" stop-color="#0C171B"/>
     </linearGradient>
-    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(905 125) rotate(35) scale(360 220)">
-      <stop stop-color="#3FB7FF" stop-opacity="0.22"/>
-      <stop offset="0.48" stop-color="#3FB7FF" stop-opacity="0.07"/>
+    <radialGradient id="auraBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 120) rotate(16) scale(390 250)">
+      <stop stop-color="#3FB7FF" stop-opacity="0.26"/>
+      <stop offset="0.42" stop-color="#3FB7FF" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#3FB7FF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="amberGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325 350) rotate(-20) scale(470 180)">
-      <stop stop-color="#F0C36A" stop-opacity="0.14"/>
+    <radialGradient id="auraGold" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 338) rotate(-20) scale(520 180)">
+      <stop stop-color="#F0C36A" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#F0C36A" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="rule" x1="80" y1="0" x2="660" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3FB7FF" stop-opacity="0.55"/>
+      <stop offset="0.35" stop-color="#34312D" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#34312D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="monogram" x1="760" y1="66" x2="1122" y2="312" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F3EA" stop-opacity="0.18"/>
+      <stop offset="0.48" stop-color="#3FB7FF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F0C36A" stop-opacity="0.12"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#blueGlow)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#amberGlow)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2D2A27"/>
+  <rect width="1200" height="360" rx="28" fill="url(#base)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#auraBlue)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#auraGold)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2D2925"/>
 
-  <g opacity="0.28">
-    <path d="M72 70 H650" stroke="#35322F"/>
-    <path d="M72 118 H600" stroke="#35322F"/>
-    <path d="M72 166 H620" stroke="#35322F"/>
-    <path d="M72 214 H560" stroke="#35322F"/>
-    <path d="M72 262 H640" stroke="#35322F"/>
+  <path d="M720 0H1200V360H882C842 301 817 242 808 184C796 106 762 48 720 0Z" fill="#101A1E" opacity="0.66"/>
+  <path d="M0 293C160 260 261 333 422 302C597 268 657 222 830 250C984 275 1065 323 1200 296V360H0V293Z" fill="#171411" opacity="0.78"/>
+
+  <g opacity="0.34">
+    <path d="M86 78H664" stroke="url(#rule)"/>
+    <path d="M86 126H605" stroke="url(#rule)"/>
+    <path d="M86 174H642" stroke="url(#rule)"/>
+    <path d="M86 222H574" stroke="url(#rule)"/>
+    <path d="M86 270H634" stroke="url(#rule)"/>
   </g>
 
-  <g opacity="0.42">
-    <circle cx="92" cy="70" r="4" fill="#3FB7FF"/>
-    <circle cx="92" cy="118" r="4" fill="#64D6A1"/>
-    <circle cx="92" cy="166" r="4" fill="#F0C36A"/>
-    <circle cx="92" cy="214" r="4" fill="#3FB7FF"/>
-    <circle cx="92" cy="262" r="4" fill="#64D6A1"/>
+  <g opacity="0.58">
+    <circle cx="86" cy="78" r="4" fill="#3FB7FF"/>
+    <circle cx="86" cy="126" r="4" fill="#64D6A1"/>
+    <circle cx="86" cy="174" r="4" fill="#F0C36A"/>
+    <circle cx="86" cy="222" r="4" fill="#3FB7FF"/>
+    <circle cx="86" cy="270" r="4" fill="#64D6A1"/>
   </g>
 
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-    <rect x="124" y="58" width="178" height="30" rx="15" fill="#1A1A18" stroke="#34302B"/>
-    <text x="144" y="78" fill="#B8B2A9" font-size="13" font-weight="650">GITHUB PROFILE</text>
-
-    <text x="124" y="137" fill="#F7F3EA" font-size="54" font-weight="750">Umut Korkmaz</text>
-    <text x="124" y="176" fill="#C7C0B6" font-size="22" font-weight="600">Lead Software Engineer</text>
-    <text x="124" y="219" fill="#F7F3EA" font-size="28" font-weight="650">Enterprise platforms, scalable APIs,</text>
-    <text x="124" y="253" fill="#F7F3EA" font-size="28" font-weight="650">AI workflows, and mobile products.</text>
-    <text x="124" y="289" fill="#B8B2A9" font-size="18">React / Next.js / React Native / .NET / Node.js / Python</text>
+    <text x="126" y="94" fill="#8F8980" font-size="13" font-weight="700" letter-spacing="2.6">LEAD SOFTWARE ENGINEER</text>
+    <text x="126" y="154" fill="#F7F3EA" font-size="56" font-weight="760">Umut Korkmaz</text>
+    <text x="126" y="202" fill="#F7F3EA" font-size="30" font-weight="670">Enterprise platforms, AI workflows,</text>
+    <text x="126" y="238" fill="#F7F3EA" font-size="30" font-weight="670">scalable APIs, and mobile products.</text>
+    <text x="126" y="281" fill="#B8B2A9" font-size="18">React / Next.js / React Native / .NET / Node.js / Python</text>
   </g>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
-    <rect x="124" y="312" width="126" height="30" rx="15" fill="#1B262B" stroke="#315365"/>
-    <text x="143" y="332" fill="#BFEAFF">Istanbul UTC+3</text>
-    <rect x="266" y="312" width="108" height="30" rx="15" fill="#18251F" stroke="#335B49"/>
-    <text x="286" y="332" fill="#C7F4DB">10+ years</text>
-    <rect x="390" y="312" width="154" height="30" rx="15" fill="#282217" stroke="#665225"/>
-    <text x="411" y="332" fill="#FFE1A0">Platform delivery</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="720">
+    <rect x="126" y="307" width="126" height="30" rx="15" fill="#1A252A" stroke="#315365"/>
+    <text x="145" y="327" fill="#BFEAFF">Istanbul UTC+3</text>
+    <rect x="268" y="307" width="108" height="30" rx="15" fill="#18251F" stroke="#335B49"/>
+    <text x="288" y="327" fill="#C7F4DB">10+ years</text>
+    <rect x="392" y="307" width="154" height="30" rx="15" fill="#272217" stroke="#665225"/>
+    <text x="413" y="327" fill="#FFE1A0">Platform delivery</text>
   </g>
 
-  <g transform="translate(752 58)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
-    <rect x="0" y="0" width="368" height="246" rx="24" fill="#151514" stroke="#2E2B28"/>
-    <rect x="20" y="20" width="328" height="206" rx="18" fill="#11100F" stroke="#25231F"/>
+  <g transform="translate(744 42)">
+    <text x="0" y="196" fill="url(#monogram)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="210" font-weight="800" letter-spacing="-18">UK</text>
 
-    <text x="42" y="55" fill="#F7F3EA" font-size="18" font-weight="700">systems map</text>
-    <text x="42" y="80" fill="#8F8980" font-size="13">platform modernization / AI integration</text>
+    <g opacity="0.86">
+      <path d="M93 224H333" stroke="#34312D" stroke-width="2"/>
+      <path d="M156 224V272" stroke="#34312D" stroke-width="2"/>
+      <path d="M269 224V272" stroke="#34312D" stroke-width="2"/>
+      <circle cx="93" cy="224" r="5" fill="#3FB7FF"/>
+      <circle cx="213" cy="224" r="5" fill="#64D6A1"/>
+      <circle cx="333" cy="224" r="5" fill="#F0C36A"/>
+      <circle cx="156" cy="272" r="5" fill="#9AD7FF"/>
+      <circle cx="269" cy="272" r="5" fill="#E9C9F5"/>
+    </g>
 
-    <path d="M82 124 H278" stroke="#34302B" stroke-width="2"/>
-    <path d="M118 124 V174" stroke="#34302B" stroke-width="2"/>
-    <path d="M242 124 V174" stroke="#34302B" stroke-width="2"/>
-    <circle cx="82" cy="124" r="5" fill="#3FB7FF"/>
-    <circle cx="180" cy="124" r="5" fill="#64D6A1"/>
-    <circle cx="278" cy="124" r="5" fill="#F0C36A"/>
-    <circle cx="118" cy="174" r="5" fill="#9AD7FF"/>
-    <circle cx="242" cy="174" r="5" fill="#E9C9F5"/>
-
-    <g font-size="13" font-weight="700">
-      <rect x="45" y="101" width="74" height="32" rx="10" fill="#1B262B" stroke="#315365"/>
-      <text x="66" y="122" fill="#BFEAFF">API</text>
-      <rect x="143" y="101" width="74" height="32" rx="10" fill="#18251F" stroke="#335B49"/>
-      <text x="162" y="122" fill="#C7F4DB">AI</text>
-      <rect x="241" y="101" width="74" height="32" rx="10" fill="#282217" stroke="#665225"/>
-      <text x="257" y="122" fill="#FFE1A0">Data</text>
-      <rect x="77" y="166" width="82" height="32" rx="10" fill="#1A2023" stroke="#30404A"/>
-      <text x="94" y="187" fill="#D5EDF8">Mobile</text>
-      <rect x="201" y="166" width="82" height="32" rx="10" fill="#211B22" stroke="#4B394E"/>
-      <text x="219" y="187" fill="#E9C9F5">Cloud</text>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="720">
+      <rect x="56" y="207" width="74" height="32" rx="10" fill="#172228" stroke="#315365"/>
+      <text x="77" y="228" fill="#BFEAFF">API</text>
+      <rect x="176" y="207" width="74" height="32" rx="10" fill="#17231D" stroke="#335B49"/>
+      <text x="195" y="228" fill="#C7F4DB">AI</text>
+      <rect x="296" y="207" width="78" height="32" rx="10" fill="#282217" stroke="#665225"/>
+      <text x="314" y="228" fill="#FFE1A0">Data</text>
+      <rect x="115" y="260" width="82" height="32" rx="10" fill="#182024" stroke="#30404A"/>
+      <text x="132" y="281" fill="#D5EDF8">Mobile</text>
+      <rect x="228" y="260" width="82" height="32" rx="10" fill="#211B22" stroke="#4B394E"/>
+      <text x="246" y="281" fill="#E9C9F5">Cloud</text>
     </g>
   </g>
 </svg>
