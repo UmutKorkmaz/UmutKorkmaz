@@ -1,7 +1,7 @@
 # Umut Korkmaz
 
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Umut Korkmaz - Lead Software Engineer building enterprise platforms, AI workflows, scalable APIs, and mobile products." />
+  <img src="assets/profile-header-card.png" alt="Umut Korkmaz - Lead Software Engineer building enterprise platforms, AI workflows, scalable APIs, and mobile products." />
 </p>
 
 Lead Software Engineer in Istanbul building enterprise platforms, commerce
