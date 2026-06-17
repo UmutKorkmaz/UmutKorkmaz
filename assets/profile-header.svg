@@ -1,64 +1,92 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Umut Korkmaz - Lead Software Engineer</title>
-  <desc id="desc">A restrained portfolio header for enterprise platforms, AI workflows, scalable APIs, and mobile products.</desc>
-  <rect width="1200" height="360" rx="28" fill="#11100F"/>
-  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2B2926"/>
+  <desc id="desc">A professional GitHub profile header for enterprise platforms, AI workflows, scalable APIs, and mobile products.</desc>
 
-  <path d="M0 286 C154 252 220 331 377 297 C544 261 629 216 801 248 C958 277 1042 330 1200 291 V360 H0 V286Z" fill="#171614"/>
-  <path d="M738 0 H1200 V360 H893 C842 277 813 205 806 145 C798 78 766 34 738 0Z" fill="#151A1D"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11100F"/>
+      <stop offset="0.58" stop-color="#141312"/>
+      <stop offset="1" stop-color="#10181C"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(905 125) rotate(35) scale(360 220)">
+      <stop stop-color="#3FB7FF" stop-opacity="0.22"/>
+      <stop offset="0.48" stop-color="#3FB7FF" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#3FB7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325 350) rotate(-20) scale(470 180)">
+      <stop stop-color="#F0C36A" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#F0C36A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
-  <g opacity="0.7">
-    <path d="M88 64 H517" stroke="#2B2926"/>
-    <path d="M88 104 H438" stroke="#2B2926"/>
-    <path d="M88 144 H548" stroke="#2B2926"/>
-    <path d="M88 184 H488" stroke="#2B2926"/>
-    <path d="M88 224 H568" stroke="#2B2926"/>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#blueGlow)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#amberGlow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2D2A27"/>
+
+  <g opacity="0.28">
+    <path d="M72 70 H650" stroke="#35322F"/>
+    <path d="M72 118 H600" stroke="#35322F"/>
+    <path d="M72 166 H620" stroke="#35322F"/>
+    <path d="M72 214 H560" stroke="#35322F"/>
+    <path d="M72 262 H640" stroke="#35322F"/>
   </g>
 
-  <g>
-    <circle cx="90" cy="64" r="5" fill="#3FB7FF"/>
-    <circle cx="90" cy="104" r="5" fill="#64D6A1"/>
-    <circle cx="90" cy="144" r="5" fill="#F0C36A"/>
-    <circle cx="90" cy="184" r="5" fill="#3FB7FF"/>
-    <circle cx="90" cy="224" r="5" fill="#64D6A1"/>
+  <g opacity="0.42">
+    <circle cx="92" cy="70" r="4" fill="#3FB7FF"/>
+    <circle cx="92" cy="118" r="4" fill="#64D6A1"/>
+    <circle cx="92" cy="166" r="4" fill="#F0C36A"/>
+    <circle cx="92" cy="214" r="4" fill="#3FB7FF"/>
+    <circle cx="92" cy="262" r="4" fill="#64D6A1"/>
   </g>
 
-  <text x="132" y="91" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="56" font-weight="700">Umut Korkmaz</text>
-  <text x="132" y="131" fill="#B8B2A9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Lead Software Engineer</text>
-  <text x="132" y="169" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Enterprise platforms and scalable APIs</text>
-  <text x="132" y="205" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">AI workflows and mobile products</text>
-  <text x="132" y="241" fill="#B8B2A9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="19">React / Next.js / React Native / .NET / Node.js / Python</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <rect x="124" y="58" width="178" height="30" rx="15" fill="#1A1A18" stroke="#34302B"/>
+    <text x="144" y="78" fill="#B8B2A9" font-size="13" font-weight="650">GITHUB PROFILE</text>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">
-    <rect x="132" y="267" width="136" height="34" rx="17" fill="#1D252A" stroke="#2F4A57"/>
-    <text x="152" y="289" fill="#BFEAFF">Istanbul UTC+3</text>
-    <rect x="284" y="267" width="116" height="34" rx="17" fill="#1C251F" stroke="#315445"/>
-    <text x="304" y="289" fill="#C7F4DB">10+ years</text>
-    <rect x="416" y="267" width="165" height="34" rx="17" fill="#272219" stroke="#5D4D25"/>
-    <text x="436" y="289" fill="#FFE3A3">Platform delivery</text>
+    <text x="124" y="137" fill="#F7F3EA" font-size="54" font-weight="750">Umut Korkmaz</text>
+    <text x="124" y="176" fill="#C7C0B6" font-size="22" font-weight="600">Lead Software Engineer</text>
+    <text x="124" y="219" fill="#F7F3EA" font-size="28" font-weight="650">Enterprise platforms, scalable APIs,</text>
+    <text x="124" y="253" fill="#F7F3EA" font-size="28" font-weight="650">AI workflows, and mobile products.</text>
+    <text x="124" y="289" fill="#B8B2A9" font-size="18">React / Next.js / React Native / .NET / Node.js / Python</text>
   </g>
 
-  <g transform="translate(805 74)">
-    <rect x="0" y="0" width="310" height="204" rx="22" fill="#171614" stroke="#2B2926"/>
-    <rect x="24" y="24" width="116" height="40" rx="12" fill="#1D252A" stroke="#2F4A57"/>
-    <text x="50" y="50" fill="#BFEAFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">API</text>
-    <rect x="170" y="24" width="116" height="40" rx="12" fill="#1C251F" stroke="#315445"/>
-    <text x="197" y="50" fill="#C7F4DB" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">AI</text>
-    <rect x="24" y="140" width="116" height="40" rx="12" fill="#272219" stroke="#5D4D25"/>
-    <text x="47" y="166" fill="#FFE3A3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Mobile</text>
-    <rect x="170" y="140" width="116" height="40" rx="12" fill="#211B22" stroke="#4B394E"/>
-    <text x="195" y="166" fill="#E9C9F5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Cloud</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
+    <rect x="124" y="312" width="126" height="30" rx="15" fill="#1B262B" stroke="#315365"/>
+    <text x="143" y="332" fill="#BFEAFF">Istanbul UTC+3</text>
+    <rect x="266" y="312" width="108" height="30" rx="15" fill="#18251F" stroke="#335B49"/>
+    <text x="286" y="332" fill="#C7F4DB">10+ years</text>
+    <rect x="390" y="312" width="154" height="30" rx="15" fill="#282217" stroke="#665225"/>
+    <text x="411" y="332" fill="#FFE1A0">Platform delivery</text>
+  </g>
 
-    <path d="M140 44 H170" stroke="#3FB7FF" stroke-width="2"/>
-    <path d="M82 64 V140" stroke="#F0C36A" stroke-width="2"/>
-    <path d="M228 64 V140" stroke="#64D6A1" stroke-width="2"/>
-    <path d="M140 160 H170" stroke="#E9C9F5" stroke-width="2"/>
-    <circle cx="155" cy="44" r="4" fill="#3FB7FF"/>
-    <circle cx="82" cy="102" r="4" fill="#F0C36A"/>
-    <circle cx="228" cy="102" r="4" fill="#64D6A1"/>
-    <circle cx="155" cy="160" r="4" fill="#E9C9F5"/>
+  <g transform="translate(752 58)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <rect x="0" y="0" width="368" height="246" rx="24" fill="#151514" stroke="#2E2B28"/>
+    <rect x="20" y="20" width="328" height="206" rx="18" fill="#11100F" stroke="#25231F"/>
 
-    <rect x="118" y="82" width="74" height="42" rx="21" fill="#11100F" stroke="#34312D"/>
-    <text x="141" y="108" fill="#F7F3EA" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">ship</text>
+    <text x="42" y="55" fill="#F7F3EA" font-size="18" font-weight="700">systems map</text>
+    <text x="42" y="80" fill="#8F8980" font-size="13">platform modernization / AI integration</text>
+
+    <path d="M82 124 H278" stroke="#34302B" stroke-width="2"/>
+    <path d="M118 124 V174" stroke="#34302B" stroke-width="2"/>
+    <path d="M242 124 V174" stroke="#34302B" stroke-width="2"/>
+    <circle cx="82" cy="124" r="5" fill="#3FB7FF"/>
+    <circle cx="180" cy="124" r="5" fill="#64D6A1"/>
+    <circle cx="278" cy="124" r="5" fill="#F0C36A"/>
+    <circle cx="118" cy="174" r="5" fill="#9AD7FF"/>
+    <circle cx="242" cy="174" r="5" fill="#E9C9F5"/>
+
+    <g font-size="13" font-weight="700">
+      <rect x="45" y="101" width="74" height="32" rx="10" fill="#1B262B" stroke="#315365"/>
+      <text x="66" y="122" fill="#BFEAFF">API</text>
+      <rect x="143" y="101" width="74" height="32" rx="10" fill="#18251F" stroke="#335B49"/>
+      <text x="162" y="122" fill="#C7F4DB">AI</text>
+      <rect x="241" y="101" width="74" height="32" rx="10" fill="#282217" stroke="#665225"/>
+      <text x="257" y="122" fill="#FFE1A0">Data</text>
+      <rect x="77" y="166" width="82" height="32" rx="10" fill="#1A2023" stroke="#30404A"/>
+      <text x="94" y="187" fill="#D5EDF8">Mobile</text>
+      <rect x="201" y="166" width="82" height="32" rx="10" fill="#211B22" stroke="#4B394E"/>
+      <text x="219" y="187" fill="#E9C9F5">Cloud</text>
+    </g>
   </g>
 </svg>
